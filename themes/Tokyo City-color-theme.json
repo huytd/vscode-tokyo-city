@@ -2,7 +2,6 @@
 	"name": "Tokyo City",
 	"type": "dark",
 	"colors": {
-		"checkbox.foreground": "#a9c0d6",
 		"activityBar.background": "#1d252c",
 		"activityBar.border": "#333f4a",
 		"activityBar.foreground": "#ffffff",
@@ -19,6 +18,7 @@
 		"button.background": "#1d252c",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#008b94",
+		"checkbox.foreground": "#a9c0d6",
 		"contrastBorder": "#ffffff00",
 		"debugConsole.errorForeground": "#bb616b",
 		"debugConsole.infoForeground": "#787c99",
@@ -145,7 +145,7 @@
 		"input.placeholderForeground": "#b7c5d3",
 		"inputOption.activeBackground": "#3d59a144",
 		"inputOption.activeBorder": "#539afc",
-		"inputOption.activeForeground": "#c0caf5",
+		"inputOption.activeForeground": "#c0f0f5",
 		"inputValidation.errorBackground": "#e27e8d",
 		"inputValidation.errorBorder": "#d95468",
 		"inputValidation.errorForeground": "#ffffff",
@@ -301,7 +301,6 @@
 		//"button.secondaryHoverBackground": "#45494e",
 		//"checkbox.background": "#41505e",
 		//"checkbox.border": "#41505e",
-		//"checkbox.foreground": "#ffffff",
 		//"debugIcon.breakpointCurrentStackframeForeground": "#ffcc00",
 		//"debugIcon.breakpointDisabledForeground": "#848484",
 		//"debugIcon.breakpointForeground": "#e51400",
@@ -381,7 +380,7 @@
 		//"searchEditor.textInputBorder": "#333f4a",
 		//"settings.checkboxBackground": "#41505e",
 		//"settings.checkboxBorder": "#41505e",
-		//"settings.checkboxForeground": "#ffffff",
+		//"settings.checkboxForeground": "#a9c0d6",
 		//"settings.dropdownBackground": "#41505e",
 		//"settings.dropdownBorder": "#41505e",
 		//"settings.dropdownForeground": "#ffffff",
@@ -461,7 +460,7 @@
 				"comment.block.documentation punctuation"
 			],
 			"settings": {
-				"foreground": "#41505e"
+				"foreground": "#41505E"
 			}
 		},
 		{
@@ -1063,19 +1062,19 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#449DAB"
+				"foreground": "#60af73"
 			}
 		},
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#914C54"
+				"foreground": "#d95468"
 			}
 		},
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#6183BB"
+				"foreground": "#BB9AF7"
 			}
 		},
 		{
