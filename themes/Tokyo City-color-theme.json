@@ -699,13 +699,13 @@
 				"variable.parameter.handlebars"
 			],
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
 			"scope": "variable.other.object",
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
@@ -741,7 +741,7 @@
 		{
 			"scope": "variable.other.object.property",
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
@@ -850,7 +850,7 @@
 		{
 			"scope": "entity.name",
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
@@ -976,7 +976,7 @@
 		{
 			"scope": "meta.property-list meta.at-rule.include",
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
@@ -992,7 +992,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
@@ -1004,7 +1004,7 @@
 		{
 			"scope": "variable.other punctuation.definition.variable",
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
@@ -1115,7 +1115,7 @@
 		{
 			"scope": "constant.character.escape.backslash",
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 				"meta.embedded.block"
 			],
 			"settings": {
-				"foreground": "#C0CAF5"
+				"foreground": "#C0F0F5"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 				"markup.italic punctuation"
 			],
 			"settings": {
-				"foreground": "#C0CAF5",
+				"foreground": "#C0F0F5",
 				"fontStyle": "italic"
 			}
 		},
@@ -1347,7 +1347,7 @@
 				"markup.bold punctuation"
 			],
 			"settings": {
-				"foreground": "#C0CAF5",
+				"foreground": "#C0F0F5",
 				"fontStyle": "bold"
 			}
 		},
@@ -1357,7 +1357,7 @@
 				"markup.bold markup.italic punctuation"
 			],
 			"settings": {
-				"foreground": "#C0CAF5",
+				"foreground": "#C0F0F5",
 				"fontStyle": "bold italic"
 			}
 		},
