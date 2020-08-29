@@ -20,5 +20,8 @@
                 "path": "./themes/Tokyo City-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "publish": "vsce publish && ovsx publish -p $OVSX_TOKEN"
     }
 }
