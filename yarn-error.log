@@ -1,0 +1,77 @@
+Arguments: 
+  /usr/local/Cellar/nvm/0.34.0/versions/node/v12.16.1/bin/node /Users/huytran/.yarn/bin/yarn.js publish
+
+PATH: 
+  /usr/local/opt/nvm/versions/node/v12.16.1/bin:/usr/local/opt/gettext/bin:/usr/local/opt/ruby/bin:/Users/huytran/.fzf/bin:/Users/huytran/.yarn/bin:/Users/Shared/DBngin/mysql/8.0.12/bin:/Users/huytran/.cargo/bin:/usr/local/opt/texinfo/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Apple/usr/bin:/Library/TeX/texbin:/Users/Shared/DBngin/mysql/8.0.12/bin:/Users/huytran/.cargo/bin:/usr/local/opt/texinfo/bin:/Users/huytran/.sdkman/candidates/java/current/bin:/Users/huy/.cargo/bin:/Users/huy/flutter/bin:/usr/local/Cellar/emacs/26.1_1/bin:/Users/huy/.local/bin:/Users/huytran/go:/Users/huytran/go/bin:/usr/local/opt/go/libexec/bin:/Users/huy/eclipse/java-oxygen/Eclipse.app/Contents/Eclips:/Users/huy/.cargo/bin:/Users/huy/flutter/bin:/usr/local/Cellar/emacs/26.1_1/bin:/Users/huy/.local/bin:/Users/huytran/go:/Users/huytran/go/bin:/usr/local/opt/go/libexec/bin:/Users/huy/eclipse/java-oxygen/Eclipse.app/Contents/Eclips
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  12.16.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/huytran/.yarn/lib/cli.js:137009:13)
+      at Interface.emit (events.js:311:20)
+      at Interface._ttyWrite (readline.js:893:16)
+      at ReadStream.onkeypress (readline.js:198:10)
+      at ReadStream.emit (events.js:311:20)
+      at emitKeys (internal/readline/utils.js:438:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1160:36)
+      at ReadStream.emit (events.js:311:20)
+      at addChunk (_stream_readable.js:294:12)
+
+npm manifest: 
+  {
+      "name": "tokyo-city",
+      "displayName": "Tokyo City",
+      "description": "Tokyo City theme, a mixture of City Lights and Tokyo Night",
+      "repository": "https://github.com/huytd/vscode-tokyo-city",
+      "icon": "icon.png",
+      "version": "0.2.1",
+      "publisher": "huytd",
+      "engines": {
+          "vscode": "^1.15.0"
+      },
+      "categories": [
+          "Themes"
+      ],
+      "contributes": {
+          "themes": [
+              {
+                  "label": "Tokyo City",
+                  "uiTheme": "vs-dark",
+                  "path": "./themes/Tokyo City-color-theme.json"
+              },
+              {
+                  "label": "Tokyo City No Italic",
+                  "uiTheme": "vs-dark",
+                  "path": "./themes/Tokyo City-no-italic-color-theme.json"
+              },
+              {
+                  "label": "Tokyo City Darker",
+                  "uiTheme": "vs-dark",
+                  "path": "./themes/Tokyo City Darker-color-theme.json"
+              },
+              {
+                  "label": "Tokyo City Lighter",
+                  "uiTheme": "vs",
+                  "path": "./themes/Tokyo City Lighter-color-theme.json"
+              }
+          ]
+      },
+      "scripts": {
+          "publish": "vsce publish && ovsx publish -p $OVSX_TOKEN"
+      }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
