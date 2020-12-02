@@ -4,7 +4,7 @@
     "description": "Tokyo City theme, a mixture of City Lights and Tokyo Night",
     "repository": "https://github.com/huytd/vscode-tokyo-city",
     "icon": "icon.png",
-    "version": "0.1.2",
+    "version": "0.2",
     "publisher": "huytd",
     "engines": {
         "vscode": "^1.15.0"
@@ -28,6 +28,11 @@
                 "label": "Tokyo City Darker",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Tokyo City Darker-color-theme.json"
+            },
+            {
+                "label": "Tokyo City Lighter",
+                "uiTheme": "vs",
+                "path": "./themes/Tokyo City Lighter-color-theme.json"
             }
         ]
     },
