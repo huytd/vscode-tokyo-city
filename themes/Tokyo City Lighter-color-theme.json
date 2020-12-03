@@ -204,7 +204,7 @@
 
         "tab.activeBackground": "#f6f6f8",
         "tab.inactiveBackground": "#ebebee",
-        "tab.activeForeground": "#383b45",
+        "tab.activeForeground": "#637dbf",
         "tab.hoverForeground": "#383b45",
         "tab.activeBorder": "#637dbf",
         "tab.inactiveForeground": "#4c505e",
@@ -217,12 +217,12 @@
         "tab.unfocusedActiveBorder": "#9da0ab",
         "tab.lastPinnedBorder": "#dadbe0",
 
-        "panel.background": "#cbccd1",
         "panel.border": "#e9e9eb",
-        "panelTitle.activeForeground": "#4c505e",
         "panelTitle.inactiveForeground": "#828594",
-        "panelTitle.activeBorder": "#cbccd1",
         "panelInput.border": "#d5d6db",
+        "panel.background": "#f6f6f8",
+        "panelTitle.activeForeground": "#637dbf",
+        "panelTitle.activeBorder": "#637dbf",
 
         "statusBar.foreground": "#4c505e",
         "statusBar.background": "#f6f6f8",
