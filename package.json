@@ -38,5 +38,6 @@
     },
     "scripts": {
         "publish": "vsce publish && ovsx publish -p $OVSX_TOKEN"
-    }
+    },
+    "license": "MIT"
 }
