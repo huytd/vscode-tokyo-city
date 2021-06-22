@@ -4,6 +4,10 @@ All notable changes to the "tokyo-city" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.2.3
+
+- Fix quick input list focus color
+
 ## 0.2
 
 - Add Lighter theme
