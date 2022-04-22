@@ -275,7 +275,7 @@
 		"terminal.background": "#171d23",
 		"terminal.foreground": "#ffffff",
 		"terminal.selectionBackground": "#515c7e30",
-		"terminalCursor.background": "#008b94",
+		"terminalCursor.background": "#171d23",
 		"terminalCursor.foreground": "#008b94",
 		"textBlockQuote.background": "#171d23",
 		"textBlockQuote.border": "#171d23",
