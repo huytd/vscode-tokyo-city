@@ -4,7 +4,7 @@
     "description": "Tokyo City theme, a mixture of City Lights and Tokyo Night",
     "repository": "https://github.com/huytd/vscode-tokyo-city",
     "icon": "icon.png",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "publisher": "huytd",
     "engines": {
         "vscode": "^1.15.0"
